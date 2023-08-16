@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CreditCardForm/static/css/main.127bc43a.css",
+    "main.js": "/CreditCardForm/static/js/main.03556142.js",
+    "static/js/787.809427d9.chunk.js": "/CreditCardForm/static/js/787.809427d9.chunk.js",
+    "index.html": "/CreditCardForm/index.html",
+    "main.127bc43a.css.map": "/CreditCardForm/static/css/main.127bc43a.css.map",
+    "main.03556142.js.map": "/CreditCardForm/static/js/main.03556142.js.map",
+    "787.809427d9.chunk.js.map": "/CreditCardForm/static/js/787.809427d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.127bc43a.css",
+    "static/js/main.03556142.js"
+  ]
+}
